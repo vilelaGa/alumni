@@ -1,0 +1,63 @@
+.btn-primary {
+    color: #000;
+    background-color: #e56723 !important;
+    border-color: #e56723 !important;
+}
+
+.text-primary {
+    color: #e56723 !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link.active {
+    color: #e56723 !important;
+}
+
+.bg-dark {
+    background-color: #b95100 !important;
+}
+
+.header-carousel .owl-nav .owl-prev,
+.header-carousel .owl-nav .owl-next {
+    border-radius: 50px;
+}
+
+.btn-square,
+.btn-sm-square,
+.btn-lg-square {
+    border-radius: 50px !important;
+}
+
+.service-item {
+    border-radius: 14px !important;
+}
+
+.navbar-light .navbar-brand,
+.navbar-light a.btn {
+    height: 40px !important;
+    border-radius: 50px;
+    margin-right: 30px;
+}
+
+
+.px-lg-5 {
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+}
+
+.testimonial-carousel .owl-item.center .testimonial-text {
+    border-radius: 14px;
+}
+
+.testimonial-carousel .owl-dot {
+    border-radius: 14px;
+}
+
+.bg-light {
+    background-color: #fcf8f0 !important;
+    border-radius: 14px;
+}
+
+/* .logo {
+    background-color: #e56723;
+} */

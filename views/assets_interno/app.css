@@ -1,0 +1,14 @@
+.logo {
+    width: 40%;
+}
+
+.fotoPerfil {
+    padding: 6px;
+    background-color: #fd7e14;
+    border-radius: 8px;
+    color: #ffff;
+}
+
+#file {
+    display: none;
+}

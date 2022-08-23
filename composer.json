@@ -1,0 +1,12 @@
+{
+    "name": "nti/alumni",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "coffeecode/router": "^1.0",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
