@@ -9,10 +9,10 @@ use PDO;
 class DbConsulta
 {
     //Constantes de conexão com Db
-    const SERVER = "172.20.11.108";
-    const DATABASE_NAME = "CORPORERM";
-    const USER = "intr_login";
-    const PASSWORD = "r8d2p68";
+    const SERVER = "";
+    const DATABASE_NAME = "";
+    const USER = "";
+    const PASSWORD = "";
 
     //Variavel tabela
     private $tabela;
